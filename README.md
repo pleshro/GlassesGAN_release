@@ -3,7 +3,7 @@
   
   <a href="https://arxiv.org/abs/2210.14145"><img src="https://img.shields.io/badge/arXiv-2210.14145-b31b1b.svg"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/pleshro/GlasssesGAN_release/blob/main/GlassesGAN_inference_demo.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/pleshro/GlasssesGAN_release/blob/main/Glasses-Try-on-App-demo-V2.ipynb)
   <a href="https://youtu.be/oMiV__LWV4A"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/159px-YouTube_full-color_icon_%282017%29.svg.png" width="30px"></a> 
   
   
